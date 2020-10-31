@@ -68,7 +68,7 @@
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [x] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [ ] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [x] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 
 ## Interview Process & General Interview Prep
